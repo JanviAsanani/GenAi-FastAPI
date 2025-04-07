@@ -20,5 +20,5 @@ A FastAPI-based platform for real-time code collaboration with AI-assisted debug
 - Run: `python main.py`
 - Set your OpenAI API key:
    [platform.openai.com](https://platform.openai.com)
-   replace your api key[using cmd] : $env:OPENAI_API_KEY="sk-..."
+   and replace your api key[using cmd] : $env:OPENAI_API_KEY="sk-..."
 
