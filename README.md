@@ -15,10 +15,3 @@ A FastAPI-based platform for real-time code collaboration with AI-assisted debug
 ## Running Tests
 - Install pytest: `pip install pytest`
 - Run: `pytest tests/`
-
-## Run using main.py
-- Run: `python main.py`
-- Set your OpenAI API key:
-   [platform.openai.com](https://platform.openai.com)
-   and replace your api key[using cmd] : $env:OPENAI_API_KEY="sk-..."
-
